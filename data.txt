@@ -1,0 +1,18 @@
+0 - Male 
+1 - Female
+
+
+0 Below 20 
+1 From 20 to 29 
+2 From 30 to 39 
+3 40 and above
+
+
+Customer type
+1-Member
+0-Normal
+
+
+Gender
+1-Female
+0-Male

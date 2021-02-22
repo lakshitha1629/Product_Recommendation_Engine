@@ -1,7 +1,3 @@
-0 - Male 
-1 - Female
-
-
 0 Below 20 
 1 From 20 to 29 
 2 From 30 to 39 
